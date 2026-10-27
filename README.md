@@ -5,6 +5,7 @@
 
 ### 🎮 What I'm working on
 
+- [**Ancalog**](https://ancalog.vercel.app) — a social log for games, movies, shows, music and anime. Rate what you play, watch and listen to, track playtime and progress, and follow your friends' activity. Built with vanilla JS + Supabase, with game data from RAWG and music from Apple Music. ([source](https://github.com/Warhead500metalmonster/ProjectAnca))
 - **Mystic Abyss II** — a real-time 3D dungeon crawler built in **Godot**, the sequel to my browser game [*Aethelgard: The Mystic Abyss*](https://github.com/WulfaW/mystic-abyss). Inspired by King's Field, Diablo and Oblivion.
 - [**discord-tts-bot**](https://github.com/Warhead500metalmonster/discord-tts-bot) — a Python text-to-speech bot for Discord.
 - Running and modding a **Project Zomboid** dedicated server for my friends.
@@ -15,6 +16,8 @@
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Steamworks](https://img.shields.io/badge/Steamworks-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
