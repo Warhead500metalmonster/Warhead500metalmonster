@@ -5,7 +5,7 @@
 
 ### 🎮 What I'm working on
 
-- [**Ancalog**](https://ancalog.vercel.app) — a social log for games, movies, shows, music and anime. Rate what you play, watch and listen to, track playtime and progress, and follow your friends' activity. Lists, reviews with likes and comments, friends-only chat, badges and all-time stats. Built with Next.js + Supabase, with data from RAWG, TMDB, AniList, Apple Music and Deezer. ([source](https://github.com/Warhead500metalmonster/ProjectAnca))
+- [**Ancalog**](https://ancalog.vercel.app) — a social log for games, movies, shows, music and anime. Rate what you play, watch and listen to, track playtime and progress, and follow your friends' activity. Steam and Letterboxd import, lists, reviews with likes, comments and spoiler tags, friends-only chat, taste-match with friends, auto-earned badges, yearly goals and a year-in-review page, Steam-style profile themes, and an admin panel. Installable on phones. Built with Next.js + Supabase, with data from RAWG, TMDB, AniList, Apple Music and Deezer. ([source](https://github.com/Warhead500metalmonster/ProjectAnca))
 - **Mystic Abyss II** — a real-time 3D dungeon crawler built in **Godot**, the sequel to my browser game [*Aethelgard: The Mystic Abyss*](https://github.com/WulfaW/mystic-abyss). Inspired by King's Field, Diablo and Oblivion.
 - [**discord-tts-bot**](https://github.com/Warhead500metalmonster/discord-tts-bot) — a Python text-to-speech bot for Discord.
 - Running and modding a **Project Zomboid** dedicated server for my friends.
