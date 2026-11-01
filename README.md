@@ -6,6 +6,7 @@
 ### 🎮 What I'm working on
 
 - [**Ancalog**](https://ancalog.vercel.app) — a social log for games, movies, shows, music and anime. Rate what you play, watch and listen to, track playtime and progress, and follow your friends' activity. Steam and Letterboxd import, lists, reviews with likes, comments and spoiler tags, friends-only chat, taste-match with friends, auto-earned badges, yearly goals and a year-in-review page, Steam-style profile themes, and an admin panel. Installable on phones. Built with Next.js + Supabase, with data from RAWG, TMDB, AniList, Apple Music and Deezer. ([source](https://github.com/Warhead500metalmonster/ProjectAnca))
+- [**PS Stream**](https://github.com/Warhead500metalmonster/ps-stream) — a PS5 Remote Play client for Windows with separate audio and video switches. Hear your game on PC while you play on the TV, or stream it to Discord. Built in C on top of chiaki-ng, and tuned for Wi-Fi. ([download](https://github.com/Warhead500metalmonster/ps-stream/releases/latest))
 - **Mystic Abyss II** — a real-time 3D dungeon crawler built in **Godot**, the sequel to my browser game [*Aethelgard: The Mystic Abyss*](https://github.com/WulfaW/mystic-abyss). Inspired by King's Field, Diablo and Oblivion.
 - [**discord-tts-bot**](https://github.com/Warhead500metalmonster/discord-tts-bot) — a Python text-to-speech bot for Discord.
 - Running and modding a **Project Zomboid** dedicated server for my friends.
@@ -15,6 +16,7 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
