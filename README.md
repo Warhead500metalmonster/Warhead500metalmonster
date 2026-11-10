@@ -26,8 +26,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Warhead500metalmonster&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warhead500metalmonster&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Warhead500metalmonster&theme=tokyonight" />
+  <img height="180" alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Warhead500metalmonster&theme=tokyonight" />
 </p>
 
 ### 📫 Find me
