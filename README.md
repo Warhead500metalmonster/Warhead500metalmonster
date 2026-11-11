@@ -3,6 +3,11 @@
 
 ---
 
+### 🤝 How I build
+
+- **Non-profit, always.** Everything here is free and open source. No ads, no paid tiers, no tracking. I make these for myself, my friends and anyone who finds them useful.
+- **Built with AI, checked by people.** I write my projects together with AI coding assistants. I decide what gets built, test it on real hardware and real networks, and read what goes in. The AI helps me move faster and learn more, and the source of every project is public, so anyone can see exactly what it does.
+
 ### 🎮 What I'm working on
 
 - [**Ancalog**](https://ancalog.vercel.app) — a social log for games, movies, shows, music and anime. Rate what you play, watch and listen to, track playtime and progress, and follow your friends' activity. Steam and Letterboxd import, lists, reviews with likes, comments and spoiler tags, friends-only chat, taste-match with friends, auto-earned badges, yearly goals and a year-in-review page, Steam-style profile themes, and an admin panel. Installable on phones. Built with Next.js + Supabase, with data from RAWG, TMDB, AniList, Apple Music and Deezer. ([source](https://github.com/Warhead500metalmonster/ProjectAnca))
