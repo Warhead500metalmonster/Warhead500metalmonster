@@ -5,12 +5,12 @@
 
 ### 🤝 How I build
 
-- **Non-profit, always.** Everything here is free and open source. No ads, no paid tiers, no tracking. I make these for myself, my friends and anyone who finds them useful.
-- **Built with AI, checked by people.** I write my projects together with AI coding assistants. I decide what gets built, test it on real hardware and real networks, and read what goes in. The AI helps me move faster and learn more, and the source of every project is public, so anyone can see exactly what it does.
+- **Non-profit, always.** Everything here is free. No ads, no paid tiers, no tracking. I make these for myself, my friends and anyone who finds them useful. Most of my projects are open source; Ancalog's code is private.
+- **Built with AI, checked by people.** I write my projects together with AI coding assistants. I decide what gets built, test it on real hardware and real networks, and read what goes in. The AI helps me move faster and learn more, and wherever the source is public, anyone can see exactly what it does.
 
 ### 🎮 What I'm working on
 
-- [**Ancalog**](https://ancalog.vercel.app) — a social log for games, movies, shows, music and anime. Rate what you play, watch and listen to, track playtime and progress, and follow your friends' activity. Steam and Letterboxd import, lists, reviews with likes, comments and spoiler tags, friends-only chat, taste-match with friends, auto-earned badges, yearly goals and a year-in-review page, Steam-style profile themes, and an admin panel. Installable on phones. Built with Next.js + Supabase, with data from RAWG, TMDB, AniList, Apple Music and Deezer. ([source](https://github.com/Warhead500metalmonster/ProjectAnca))
+- [**Ancalog**](https://ancalog.com) — a diary and community for games, movies, TV shows, anime and music. Log, rate and review what you play, watch and listen to, and bring your whole history from Steam, PlayStation, Xbox, Backloggd, Letterboxd, MyAnimeList and Spotify. Make lists, follow friends, chat, talk on the forum and join "all together" events with special badges. In English and Turkish, free and ad-free, installable on phones. Built with Next.js + Supabase, with data from IGDB, TMDB, AniList, Apple Music and Deezer. ([about & feedback](https://github.com/Warhead500metalmonster/ancalog))
 - [**PS Stream**](https://github.com/Warhead500metalmonster/ps-stream) — a PS5 Remote Play client for Windows with separate audio and video switches. Hear your game on PC while you play on the TV, or stream it to Discord. Built in C on top of chiaki-ng, and tuned for Wi-Fi. ([download](https://github.com/Warhead500metalmonster/ps-stream/releases/latest))
 - **Mystic Abyss II** — a real-time 3D dungeon crawler built in **Godot**, the sequel to my browser game [*Aethelgard: The Mystic Abyss*](https://github.com/WulfaW/mystic-abyss). Inspired by King's Field, Diablo and Oblivion.
 - [**discord-tts-bot**](https://github.com/Warhead500metalmonster/discord-tts-bot) — a Python text-to-speech bot for Discord.
